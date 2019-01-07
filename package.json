@@ -20,7 +20,7 @@
     "request": "2.81.0",
     "crypto": "0.0.3",
     "bluebird": "3.5.0",
-    "lodash": "4.17.4"
+    "lodash": "4.17.5"
   },
   "homepage": "https://github.com/maksekeskus/sdk-node"
 }
