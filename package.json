@@ -17,7 +17,7 @@
     "url": "https://github.com/maksekeskus/sdk-node/issues"
   },
   "dependencies": {
-    "request": "2.81.0",
+    "request": "2.88.2",
     "crypto": "0.0.3",
     "bluebird": "3.5.0",
     "lodash": "4.17.21"
