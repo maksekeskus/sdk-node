@@ -1,3 +1,7 @@
+> [!WARNING]
+> This SDK is currently severly outdated and its usage is discouraged, use at own risk only.
+
+
 sdk-node
 ========
 
