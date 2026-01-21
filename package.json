@@ -19,7 +19,7 @@
   "dependencies": {
     "request": "2.81.0",
     "crypto": "0.0.3",
-    "bluebird": "3.5.0",
+    "bluebird": "3.7.2",
     "lodash": "4.17.21"
   },
   "homepage": "https://github.com/maksekeskus/sdk-node"
